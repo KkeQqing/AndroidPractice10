@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">AndroidPractice10</string>
+    <string name="app_name">动画</string>
+    <string name="btn_alpha">开始alpha动画</string>
+    <string name="bt_rotation">开始旋转动画</string>
+    <string name="bt_scale">开始缩放动画</string>
+    <string name="bt_translation">开始平移动画</string>
+    <string name="bt_group">开始属性动画组合</string>
+    <string name="bt_value">开始插值器估值器</string>
 </resources>
